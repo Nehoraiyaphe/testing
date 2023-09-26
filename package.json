@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vitest": "^0.34.5",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "test": "vitest",
+    "start": "nodemon string.ts"
+  }
+}
